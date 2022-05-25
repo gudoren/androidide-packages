@@ -1,0 +1,12 @@
+diff -uNr boinc-client_release-7.18-7.18.1/lib/synch.cpp boinc-client_release-7.18-7.18.1.mod/lib/synch.cpp
+--- boinc-client_release-7.18-7.18.1/lib/synch.cpp	2021-08-03 23:52:19.000000000 +0800
++++ boinc-client_release-7.18-7.18.1.mod/lib/synch.cpp	2021-12-27 20:14:42.835967158 +0800
+@@ -18,7 +18,7 @@
+ 
+ // interfaces for accessing sempahores
+ 
+-#ifndef ANDROID
++#ifndef __ANDROID__
+ 
+ #include "config.h"
+ #include <cstdio>

@@ -1,0 +1,12 @@
+diff -uNr llvm-project/compiler-rt/lib/builtins/CMakeLists.txt llvm-project.mod/compiler-rt/lib/builtins/CMakeLists.txt
+--- llvm-project/compiler-rt/lib/builtins/CMakeLists.txt	2022-05-03 21:10:32.000000000 +0800
++++ llvm-project.mod/compiler-rt/lib/builtins/CMakeLists.txt	2022-05-08 23:47:42.503357117 +0800
+@@ -745,6 +745,8 @@
+       # Release mode already sets it via -O2/3, Debug mode doesn't.
+       if (${arch} STREQUAL "armhf")
+         list(APPEND BUILTIN_CFLAGS_${arch} -fomit-frame-pointer -DCOMPILER_RT_ARMHF_TARGET)
++      elseif(${arch} STREQUAL "arm" AND ANDROID)
++        list(APPEND BUILTIN_CFLAGS_${arch} -fomit-frame-pointer)
+       endif()
+ 
+       # For RISCV32, we must force enable int128 for compiling long

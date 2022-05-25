@@ -1,0 +1,2 @@
+#!/data/data/com.itsaky.androidide/files/usr/bin/sh
+export PATH=/data/data/com.itsaky.androidide/files/usr/opt/rustc-nightly/bin:$PATH

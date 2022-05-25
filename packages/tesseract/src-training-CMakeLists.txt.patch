@@ -1,0 +1,11 @@
+--- ./src/training/CMakeLists.txt.orig	2022-02-16 20:32:23.235233044 +0000
++++ ./src/training/CMakeLists.txt	2022-02-16 20:34:18.595048181 +0000
+@@ -252,7 +252,7 @@
+                                                        PkgConfig::ICU)
+     else()
+       target_link_libraries(unicharset_training PUBLIC common_training
+-                                                       ${ICU_LINK_LIBRARIES})
++                                                       ${ICU_LINK_LIBRARIES} libandroid-glob.so)
+     endif()
+   endif()
+   target_include_directories(unicharset_training

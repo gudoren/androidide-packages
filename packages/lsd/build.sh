@@ -1,0 +1,9 @@
+TERMUX_PKG_HOMEPAGE=https://github.com/Peltoche/lsd 
+TERMUX_PKG_DESCRIPTION="Next gen ls command"
+TERMUX_PKG_LICENSE="Apache-2.0"
+TERMUX_PKG_MAINTAINER="Krishna Kanhaiya @kcubeterm"
+TERMUX_PKG_VERSION=0.21.0
+TERMUX_PKG_SRCURL=https://github.com/Peltoche/lsd/archive/${TERMUX_PKG_VERSION}.tar.gz
+TERMUX_PKG_SHA256=f500c18221f9c3fd45f88f6f764001e99cf9d6d74af9172cbb9a9ff32f3e5c7d
+TERMUX_PKG_AUTO_UPDATE=true
+TERMUX_PKG_BUILD_IN_SRC=true

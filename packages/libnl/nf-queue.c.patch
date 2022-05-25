@@ -1,0 +1,10 @@
+--- nf-queue.c.orig	2022-04-15 18:49:58.769003690 +0000
++++ ./src/nf-queue.c	2022-04-15 18:51:25.966876442 +0000
+@@ -13,6 +13,7 @@
+ #include <netlink/netfilter/queue.h>
+ #include <netlink/netfilter/queue_msg.h>
+ 
++#include <sys/select.h>
+ #include <linux/netlink.h>
+ 
+ static struct nl_sock *nf_sock;

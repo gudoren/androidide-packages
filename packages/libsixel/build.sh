@@ -1,0 +1,16 @@
+TERMUX_PKG_HOMEPAGE=https://saitoha.github.io/libsixel/
+TERMUX_PKG_DESCRIPTION="Encoder/decoder implementation for DEC SIXEL graphics"
+TERMUX_PKG_LICENSE="MIT"
+TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_VERSION=1.10.3
+TERMUX_PKG_SRCURL=https://github.com/libsixel/libsixel/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
+TERMUX_PKG_SHA256=028552eb8f2a37c6effda88ee5e8f6d87b5d9601182ddec784a9728865f821e0
+TERMUX_PKG_DEPENDS="libcurl, libjpeg-turbo, libpng"
+TERMUX_PKG_BREAKS="libsixel-dev"
+TERMUX_PKG_REPLACES="libsixel-dev"
+
+termux_step_pre_configure() {
+	export PYTHON_VERSION=$(. $TERMUX_SCRIPTDIR/packages/python/build.sh; echo $_MAJOR_VERSION)
+	export PYTHON=python$PYTHON_VERSION
+	TERMUX_PKG_RM_AFTER_INSTALL="lib/${PYTHON}/site-packages/libsixel/__pycache__"
+}

@@ -1,0 +1,30 @@
+diff -uNr boinc-client_release-7.18-7.18.1/client/scripts/Makefile.am boinc-client_release-7.18-7.18.1.mod/client/scripts/Makefile.am
+--- boinc-client_release-7.18-7.18.1/client/scripts/Makefile.am	2021-08-03 23:52:19.000000000 +0800
++++ boinc-client_release-7.18-7.18.1.mod/client/scripts/Makefile.am	2021-12-27 20:14:58.743967146 +0800
+@@ -2,21 +2,21 @@
+ 
+ install-exec-hook:
+ 	chmod +x boinc-client
+-	if [ -d /etc/init.d ] ; then \
++	if [ -d /notfound/etc/init.d ] ; then \
+ 		$(INSTALL) -d $(DESTDIR)$(sysconfdir)/init.d ; \
+ 		$(INSTALL) -b boinc-client $(DESTDIR)$(sysconfdir)/init.d/boinc-client ; \
+ 	fi
+-	if [ -d /usr/lib/systemd/system ] ; then \
++	if [ -d /notfound/usr/lib/systemd/system ] ; then \
+ 		$(INSTALL) -d $(DESTDIR)/usr/lib/systemd/system/ ; \
+ 		$(INSTALL_DATA) boinc-client.service $(DESTDIR)/usr/lib/systemd/system/boinc-client.service ; \
+-	elif [ -d /lib/systemd/system ] ; then \
++	elif [ -d /notfound/lib/systemd/system ] ; then \
+ 		$(INSTALL) -d $(DESTDIR)/lib/systemd/system/ ; \
+ 		$(INSTALL_DATA) boinc-client.service $(DESTDIR)/lib/systemd/system/boinc-client.service ; \
+ 	fi
+-	if [ -d /etc/sysconfig ] ; then \
++	if [ -d /notfound/etc/sysconfig ] ; then \
+ 	  $(INSTALL) -d $(DESTDIR)$(sysconfdir)/sysconfig ; \
+ 	  $(INSTALL_DATA) $(srcdir)/boinc-client.conf $(DESTDIR)$(sysconfdir)/sysconfig/boinc-client ; \
+-	elif [ -d /etc/default ] ; then \
++	elif [ -d /notfound/etc/default ] ; then \
+ 	  $(INSTALL) -d $(DESTDIR)$(sysconfdir)/default ; \
+ 	  $(INSTALL_DATA) $(srcdir)/boinc-client.conf $(DESTDIR)$(sysconfdir)/default/boinc-client ; \
+ 	else \

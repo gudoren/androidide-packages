@@ -1,0 +1,28 @@
+diff -uNr boinc-client_release-7.18-7.18.1/client/Makefile.am boinc-client_release-7.18-7.18.1.mod/client/Makefile.am
+--- boinc-client_release-7.18-7.18.1/client/Makefile.am	2021-08-03 23:52:19.000000000 +0800
++++ boinc-client_release-7.18-7.18.1.mod/client/Makefile.am	2021-12-27 20:14:51.115967152 +0800
+@@ -25,7 +25,7 @@
+ endif
+ 
+ bin_PROGRAMS = boinc_client boinccmd boinc
+-if !OS_WIN32
++if OS_DARWIN
+ bin_PROGRAMS += switcher
+ endif
+ 
+@@ -139,12 +139,12 @@
+ 
+ boinc$(EXEEXT): boinc_client$(EXEEXT)
+ 	rm -f boinc$(EXEEXT) .libs/boinc$(EXEEXT)
+-	$(LN) boinc_client$(EXEEXT) boinc$(EXEEXT)
+-	if test -f .libs/boinc_client$(EXEEXT) ; then $(LN) .libs/boinc_client$(EXEEXT) .libs/boinc$(EXEEXT) ; fi
++	$(LN) -sfr boinc_client$(EXEEXT) boinc$(EXEEXT)
++	if test -f .libs/boinc_client$(EXEEXT) ; then $(LN) -sfr .libs/boinc_client$(EXEEXT) .libs/boinc$(EXEEXT) ; fi
+ 
+ install-exec-hook:
+ 	rm -f $(DESTDIR)$(exec_prefix)/bin/boinc$(EXEEXT)
+-	$(LN) $(DESTDIR)$(exec_prefix)/bin/boinc_client$(EXEEXT) $(DESTDIR)$(exec_prefix)/bin/boinc$(EXEEXT)
++	$(LN) -sfr $(DESTDIR)$(exec_prefix)/bin/boinc_client$(EXEEXT) $(DESTDIR)$(exec_prefix)/bin/boinc$(EXEEXT)
+ 
+ ## these source files need to be specified because no rule uses them.
+ 
