@@ -76,7 +76,7 @@ last_modified() {
 }
 
 select_mirror() {
-	local main_repo="https://androidide.com/packages/apt/termux-main"
+	local main_repo="${ANDROIDIDE_MAIN_REPO}"
 
 	declare -A mirrors
 	mirrors[16]="$main_repo"

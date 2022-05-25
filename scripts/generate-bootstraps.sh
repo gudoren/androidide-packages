@@ -19,12 +19,11 @@ BOOTSTRAP_ANDROID10_COMPATIBLE=false
 TERMUX_ARCHITECTURES=("aarch64" "arm" "i686" "x86_64")
 
 # The supported termux package managers.
-TERMUX_PACKAGE_MANAGERS=("apt" "pacman")
+TERMUX_PACKAGE_MANAGERS=("apt")
 
 # The repository base urls mapping for package managers.
 declare -A REPO_BASE_URLS=(
-	["apt"]="https://packages-cf.termux.org/apt/termux-main"
-	["pacman"]="https://s3.amazonaws.com/termux-main.pacman"
+	["apt"]="${ANDROIDIDE_MAIN_REPO}"
 )
 
 # The package manager that will be installed in bootstrap.

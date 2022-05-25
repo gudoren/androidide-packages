@@ -70,10 +70,8 @@ termux_step_pre_configure() {
 
 termux_step_post_make_install() {
 	{
-		echo "# The main termux repository, behind cloudflare cache:"
-		echo "deb https://packages-cf.termux.org/apt/termux-main/ stable main"
-		echo "# The main termux repository:"
-		echo "# deb https://packages.termux.org/apt/termux-main/ stable main"
+		echo "# The main packages repository:"
+		echo "# deb ${ANDROIDIDE_MAIN_REPO}/ stable main"
 	} > $TERMUX_PREFIX/etc/apt/sources.list
 
 	# apt-transport-tor
