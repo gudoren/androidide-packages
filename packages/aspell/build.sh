@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://aspell.net
 TERMUX_PKG_DESCRIPTION="A free and open source spell checker designed to replace Ispell"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.60.8
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://ftp.gnu.org/gnu/aspell/aspell-${TERMUX_PKG_VERSION}.tar.gz

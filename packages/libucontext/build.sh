@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/kaniini/libucontext
 TERMUX_PKG_DESCRIPTION="A library which provides the ucontext.h C API"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.1
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/kaniini/libucontext/archive/refs/tags/libucontext-${TERMUX_PKG_VERSION}.tar.gz

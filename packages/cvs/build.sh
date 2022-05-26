@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.nongnu.org/cvs/
 TERMUX_PKG_DESCRIPTION="Concurrent Versions System"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION="1:1.12.13"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/termux/distfiles/releases/download/2021.01.04/cvs-${TERMUX_PKG_VERSION:2}+real-26.tar.xz"

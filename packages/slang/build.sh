@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.jedsoft.org/slang/
 TERMUX_PKG_DESCRIPTION="S-Lang is a powerful interpreted language"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.3.2
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://www.jedsoft.org/releases/slang/slang-$TERMUX_PKG_VERSION.tar.bz2

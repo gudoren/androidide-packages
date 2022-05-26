@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/bartobri/no-more-secrets
 TERMUX_PKG_DESCRIPTION="This project provides a command line tool called nms that recreates the famous data decryption effect."
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.0.1
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/bartobri/no-more-secrets/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

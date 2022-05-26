@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://ibotpeaches.github.io/Apktool/
 TERMUX_PKG_DESCRIPTION="A tool for reverse engineering 3rd party, closed, binary Android apps"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.6.1
 TERMUX_PKG_SRCURL=https://github.com/iBotPeaches/Apktool/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=8932e77d963b9e0e07227422d82ed4a355e8aa268bad1361e5cfaffa8e4d52ee

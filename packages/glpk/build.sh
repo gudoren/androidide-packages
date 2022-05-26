@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gnu.org/software/glpk/
 TERMUX_PKG_DESCRIPTION="GNU Linear Programming Kit: solve LP, MIP and other problems"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=5.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://ftp.gnu.org/gnu/glpk/glpk-${TERMUX_PKG_VERSION}.tar.gz

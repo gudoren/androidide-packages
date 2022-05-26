@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.xfce.org/
 TERMUX_PKG_DESCRIPTION="Basic utility non-GUI functions for XFCE"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=4.17.1
 TERMUX_PKG_REVISION=5
 TERMUX_PKG_SRCURL=http://archive.xfce.org/src/xfce/libxfce4util/4.17/libxfce4util-${TERMUX_PKG_VERSION}.tar.bz2

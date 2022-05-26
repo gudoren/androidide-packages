@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://maunium.net/go/mautrix-whatsapp/
 TERMUX_PKG_DESCRIPTION="A Matrix-WhatsApp puppeting bridge"
 TERMUX_PKG_LICENSE="AGPL-V3"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.3.0
 TERMUX_PKG_SRCURL=https://github.com/mautrix/whatsapp/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=1c064cddcfa6b2f67a774c9b38b5a10b661741d31924209166794b784cf161fc

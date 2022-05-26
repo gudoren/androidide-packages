@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.fetchmail.info/
 TERMUX_PKG_DESCRIPTION="A remote-mail retrieval utility"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=6.4.29
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://sourceforge.net/projects/fetchmail/files/branch_${TERMUX_PKG_VERSION:0:3}/fetchmail-$TERMUX_PKG_VERSION.tar.xz

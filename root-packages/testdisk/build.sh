@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.cgsecurity.org/wiki/TestDisk
 TERMUX_PKG_DESCRIPTION="Partition Recovery and File Undelete"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=7.1
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://www.cgsecurity.org/testdisk-${TERMUX_PKG_VERSION}.tar.bz2

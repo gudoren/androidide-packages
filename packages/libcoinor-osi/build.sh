@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/coin-or/Osi
 TERMUX_PKG_DESCRIPTION="An abstract base class to a generic linear programming (LP) solver"
 TERMUX_PKG_LICENSE="EPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=01ada0ee8d423b4401ac04418c8300a04dd2beaf
 TERMUX_PKG_VERSION=2022.01.01
 TERMUX_PKG_SRCURL=https://github.com/coin-or/Osi.git

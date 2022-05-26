@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/jwilk/pdf2djvu
 TERMUX_PKG_DESCRIPTION="PDF to DjVu converter"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.9.18.2
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL=https://github.com/jwilk/pdf2djvu/releases/download/${TERMUX_PKG_VERSION}/pdf2djvu-${TERMUX_PKG_VERSION}.tar.xz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/lzanini/mdbook-katex
 TERMUX_PKG_DESCRIPTION="A preprocessor for mdBook, pre-rendering LaTex equations to HTML at build time"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=a16a13f4358cf67db5570ecff5e1002578c161d5
 _COMMIT_DATE=2022.01.27
 TERMUX_PKG_VERSION=0.2.10p${_COMMIT_DATE//./}

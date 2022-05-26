@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/denisidoro/navi
 TERMUX_PKG_DESCRIPTION="An interactive cheatsheet tool for the command-line"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION="2.20.1"
 TERMUX_PKG_SRCURL=https://github.com/denisidoro/navi/archive/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=92644677dc46e13aa71b049c5946dede06a22064b3b1834f52944d50e3fdb950

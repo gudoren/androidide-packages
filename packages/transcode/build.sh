@@ -2,7 +2,7 @@
 TERMUX_PKG_HOMEPAGE=https://packages.gentoo.org/packages/media-video/transcode
 TERMUX_PKG_DESCRIPTION="A video stream processing utility"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.1.7
 TERMUX_PKG_SRCURL=(https://ftp-osl.osuosl.org/pub/gentoo/distfiles/transcode-${TERMUX_PKG_VERSION}.tar.bz2
                    https://dev.gentoo.org/~mgorny/dist/transcode-${TERMUX_PKG_VERSION}-patchset.tar.bz2)

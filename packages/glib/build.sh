@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://developer.gnome.org/glib/
 TERMUX_PKG_DESCRIPTION="Library providing core building blocks for libraries and applications written in C"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _MAJOR_VERSION=2.72
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.1
 TERMUX_PKG_REVISION=1

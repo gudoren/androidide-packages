@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://fte.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="A free text editor for developers"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=20110708
 TERMUX_PKG_SRCURL=(https://downloads.sourceforge.net/fte/fte-${TERMUX_PKG_VERSION}-src.zip
                    https://downloads.sourceforge.net/fte/fte-${TERMUX_PKG_VERSION}-common.zip)

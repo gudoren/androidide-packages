@@ -4,7 +4,7 @@ TERMUX_PKG_SHA256=e002f4f50bfb1b3c937dc0a86a8a59395182fe1288e4ed3429db5771f68f73
 TERMUX_PKG_VERSION="2.5.0"
 TERMUX_PKG_SRCURL="https://github.com/docker/compose/archive/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_DEPENDS=docker
 
 termux_step_make() {

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/ericchiang/xpup
 TERMUX_PKG_DESCRIPTION="pup for XML"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=3c408621ad9b5693323acd7d1b455f78444e0c5f
 TERMUX_PKG_VERSION=2021.12.26
 TERMUX_PKG_SRCURL=https://github.com/ericchiang/xpup.git

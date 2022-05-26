@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/gnome-desktop
 TERMUX_PKG_DESCRIPTION="Utility library for loading .desktop files"
 TERMUX_PKG_LICENSE="GPL-2.0, LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _MAJOR_VERSION=41
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.6
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/gnome-desktop/${_MAJOR_VERSION}/gnome-desktop-${TERMUX_PKG_VERSION}.tar.xz

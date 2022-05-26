@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.sfml-dev.org/
 TERMUX_PKG_DESCRIPTION="A simple, fast, cross-platform and object-oriented multimedia API"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.5.1
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/SFML/SFML/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

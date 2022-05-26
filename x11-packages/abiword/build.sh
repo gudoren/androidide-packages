@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.abisource.com/
 TERMUX_PKG_DESCRIPTION="A free word processing program"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.0.5
 TERMUX_PKG_SRCURL=https://www.abisource.com/downloads/abiword/${TERMUX_PKG_VERSION}/source/abiword-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=1257247e9970508d6d1456d3e330cd1909c4b42b25e0f0a1bc32526d6f3a21b4

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.gnustep.org
 TERMUX_PKG_DESCRIPTION="A library of general-purpose, non-graphical Objective C objects"
 TERMUX_PKG_LICENSE="GPL-2.0, LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.28.0
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=http://ftp.gnustep.org/pub/gnustep/core/gnustep-base-${TERMUX_PKG_VERSION}.tar.gz

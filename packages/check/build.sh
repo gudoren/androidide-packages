@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://libcheck.github.io/check
 TERMUX_PKG_DESCRIPTION="A unit testing framework for C"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.15.2
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/libcheck/check/releases/download/${TERMUX_PKG_VERSION}/check-${TERMUX_PKG_VERSION}.tar.gz

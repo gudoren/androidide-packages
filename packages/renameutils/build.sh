@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.nongnu.org/renameutils/
 TERMUX_PKG_DESCRIPTION="A set of programs designed to make renaming of files faster and less cumbersome"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.12.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://savannah.nongnu.org/download/renameutils/renameutils-$TERMUX_PKG_VERSION.tar.gz

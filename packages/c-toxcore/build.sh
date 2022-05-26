@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://tox.chat
 TERMUX_PKG_DESCRIPTION="Backend library for the Tox protocol"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.2.18
 TERMUX_PKG_SRCURL=https://github.com/TokTok/toxcore.git
 TERMUX_PKG_AUTO_UPDATE=true

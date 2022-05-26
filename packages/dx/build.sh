@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://developer.android.com/tools/help/index.html
 TERMUX_PKG_DESCRIPTION="Command which takes in Java class files and converts them to format executable by Dalvik VM"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1:1.16
 TERMUX_PKG_REVISION=6
 TERMUX_PKG_SRCURL=https://github.com/termux/distfiles/releases/download/2021.01.04/dx-android-${TERMUX_PKG_VERSION:2}.jar

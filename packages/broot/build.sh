@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/Canop/broot
 TERMUX_PKG_DESCRIPTION="A better way to navigate directories"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.8.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/Canop/broot/archive/v${TERMUX_PKG_VERSION}.tar.gz

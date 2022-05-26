@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://xorg.freedesktop.org/"
 TERMUX_PKG_DESCRIPTION="Primitive command line interface to RandR extension"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION="1.5.1"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL="https://gitlab.freedesktop.org/xorg/app/xrandr/-/archive/xrandr-${TERMUX_PKG_VERSION}/xrandr-${TERMUX_PKG_VERSION}.tar.bz2"

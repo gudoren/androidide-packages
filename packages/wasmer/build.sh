@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/wasmerio/wasmer
 TERMUX_PKG_DESCRIPTION="A fast and secure WebAssembly runtime"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.2.1
 TERMUX_PKG_SRCURL=https://github.com/wasmerio/wasmer/archive/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=e9da2d07c5336266f8a13332628610b3833b9d9d45001b1b0558d3b8b0262e4f

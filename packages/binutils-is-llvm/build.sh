@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/trentbuck/binutils-is-llvm
 TERMUX_PKG_DESCRIPTION="Use llvm as binutils"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 # The version number is different from the original one.
 TERMUX_PKG_VERSION=0.1
 TERMUX_PKG_SKIP_SRC_EXTRACT=true

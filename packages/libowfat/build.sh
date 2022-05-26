@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.fefe.de/libowfat/
 TERMUX_PKG_DESCRIPTION="GPL reimplementation of libdjb"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.32
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=http://www.fefe.de/libowfat/libowfat-$TERMUX_PKG_VERSION.tar.xz

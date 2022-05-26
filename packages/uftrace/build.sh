@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://uftrace.github.io/slide
 TERMUX_PKG_DESCRIPTION="Function (graph) tracer for user-space"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.11
 TERMUX_PKG_SRCURL=https://github.com/namhyung/uftrace/archive/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=101dbb13cb3320ee76525ec26426f2aa1de4e3ee5af74f79cb403ae4d2c6c871

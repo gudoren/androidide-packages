@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/lsof-org/lsof
 TERMUX_PKG_DESCRIPTION="Lists open files for running Unix processes"
 TERMUX_PKG_LICENSE="custom"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION="4.95.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/lsof-org/lsof/archive/${TERMUX_PKG_VERSION}/lsof-${TERMUX_PKG_VERSION}.tar.gz

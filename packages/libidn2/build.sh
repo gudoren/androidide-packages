@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gnu.org/software/libidn/#libidn2
 TERMUX_PKG_DESCRIPTION="Free software implementation of IDNA2008, Punycode and TR46"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.3.2
 TERMUX_PKG_SRCURL=https://mirrors.kernel.org/gnu/libidn/libidn2-$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=76940cd4e778e8093579a9d195b25fff5e936e9dc6242068528b437a76764f91

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/Projects/gexiv2
 TERMUX_PKG_DESCRIPTION="A GObject-based Exiv2 wrapper"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _MAJOR_VERSION=0.14
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.0
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/gexiv2/${_MAJOR_VERSION}/gexiv2-${TERMUX_PKG_VERSION}.tar.xz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.flameeyes.com/projects/unpaper
 TERMUX_PKG_DESCRIPTION="A post-processing tool for scanned sheets of paper"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=e5154081c1c944719ff6ba70a8c114d1656ea799
 TERMUX_PKG_VERSION=2022.01.21
 TERMUX_PKG_SRCURL=https://github.com/unpaper/unpaper.git

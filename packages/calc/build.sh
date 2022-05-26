@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.isthe.com/chongo/tech/comp/calc/
 TERMUX_PKG_DESCRIPTION="Arbitrary precision console calculator"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION="2.14.1.0"
 TERMUX_PKG_SRCURL=https://github.com/lcn2/calc/releases/download/v$TERMUX_PKG_VERSION/calc-$TERMUX_PKG_VERSION.tar.bz2
 TERMUX_PKG_SHA256=0b5616652e31ee1b54585dcc8512d02180a12f8addc09c4049d3d08edb54af40

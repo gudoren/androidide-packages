@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://developer.android.com/
 TERMUX_PKG_DESCRIPTION="Android platform tools"
 TERMUX_PKG_LICENSE="Apache-2.0, MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=31.0.3p1
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/nmeum/android-tools/releases/download/$TERMUX_PKG_VERSION/android-tools-$TERMUX_PKG_VERSION.tar.xz

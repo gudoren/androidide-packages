@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.sqlite.org
 TERMUX_PKG_DESCRIPTION="tcl bindings for SQLite"
 TERMUX_PKG_LICENSE="Public Domain"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 # Note: Updating this version requires bumping libsqlite package as well.
 _SQLITE_MAJOR=3
 _SQLITE_MINOR=38

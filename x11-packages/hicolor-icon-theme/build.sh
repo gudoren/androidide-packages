@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.freedesktop.org/wiki/Software/icon-theme/
 TERMUX_PKG_DESCRIPTION="Freedesktop.org Hicolor icon theme"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.17
 TERMUX_PKG_REVISION=28
 TERMUX_PKG_SKIP_SRC_EXTRACT=true

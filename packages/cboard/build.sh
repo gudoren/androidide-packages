@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://benkibbey.wordpress.com/cboard/
 TERMUX_PKG_DESCRIPTION="PGN browser, editor and chess engine frontend"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.7.5
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=http://downloads.sourceforge.net/project/c-board/${TERMUX_PKG_VERSION}/cboard-${TERMUX_PKG_VERSION}.tar.bz2

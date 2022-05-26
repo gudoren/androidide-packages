@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://lfortran.org/
 TERMUX_PKG_DESCRIPTION="A modern open-source interactive Fortran compiler"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.14.0
 TERMUX_PKG_SRCURL=https://gitlab.com/lfortran/lfortran.git
 TERMUX_PKG_DEPENDS="clang, libc++, libkokkos, zlib"

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/google/brotli
 TERMUX_PKG_DESCRIPTION="lossless compression algorithm and format (command line utility)"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.0.9
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/google/brotli/archive/v$TERMUX_PKG_VERSION.tar.gz

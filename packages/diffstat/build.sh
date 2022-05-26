@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://invisible-island.net/diffstat/diffstat.html
 TERMUX_PKG_DESCRIPTION="Displays a histogram of changes to a file"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.64
 #TERMUX_PKG_SRCURL=https://invisible-mirror.net/archives/diffstat/diffstat-${TERMUX_PKG_VERSION}.tgz
 TERMUX_PKG_SRCURL=https://invisible-island.net/datafiles/release/diffstat.tar.gz

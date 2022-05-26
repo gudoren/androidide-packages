@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/wiire-a/pixiewps
 TERMUX_PKG_DESCRIPTION="An offline Wi-Fi Protected Setup brute-force utility"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.4.2
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/wiire-a/pixiewps/archive/v${TERMUX_PKG_VERSION}.tar.gz

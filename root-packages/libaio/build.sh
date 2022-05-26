@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://lse.sourceforge.net/io/aio.html
 TERMUX_PKG_DESCRIPTION="Linux kernel AIO access library"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.3.112
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=http://ftp.de.debian.org/debian/pool/main/liba/libaio/libaio_${TERMUX_PKG_VERSION}.orig.tar.xz

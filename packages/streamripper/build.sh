@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://streamripper.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Records and splits streaming mp3 into tracks"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.64.6
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/sourceforge/streamripper/streamripper-$TERMUX_PKG_VERSION.tar.gz

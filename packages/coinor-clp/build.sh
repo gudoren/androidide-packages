@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/coin-or/Clp
 TERMUX_PKG_DESCRIPTION="An open-source linear programming solver"
 TERMUX_PKG_LICENSE="EPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=899ed6d5f9de24ddb0c31761f9551c6c861dad92
 TERMUX_PKG_VERSION=2022.01.01
 TERMUX_PKG_SRCURL=https://github.com/coin-or/Clp.git

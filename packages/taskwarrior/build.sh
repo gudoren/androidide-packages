@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://taskwarrior.org
 TERMUX_PKG_DESCRIPTION="Utility for managing your TODO list"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.6.2
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/GothenburgBitFactory/taskwarrior/releases/download/v${TERMUX_PKG_VERSION}/task-${TERMUX_PKG_VERSION}.tar.gz

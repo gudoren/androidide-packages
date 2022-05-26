@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://webkitgtk.org
 TERMUX_PKG_DESCRIPTION="A full-featured port of the WebKit rendering engine"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.36.2
 TERMUX_PKG_SRCURL=https://webkitgtk.org/releases/webkitgtk-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=fe93bddb4a02c0e36f926efb6e81d28afd288b8824f6c5cf6a75cf40228e008e

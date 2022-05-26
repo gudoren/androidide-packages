@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.influxdata.com/
 TERMUX_PKG_DESCRIPTION="An open source time series database with no external dependencies"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 # It cannot be simply updated to the 2.0 series, for which the build system is
 # pretty much different from that for 1.x.
 _GIT_BRANCH=1.8

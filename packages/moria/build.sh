@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://umoria.org
 TERMUX_PKG_DESCRIPTION="Rogue-like game with an infinite dungeon"
 TERMUX_PKG_LICENSE="GPL-3.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=5.7.15
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/dungeons-of-moria/umoria/archive/v${TERMUX_PKG_VERSION}.tar.gz

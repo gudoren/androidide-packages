@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gegl.org/
 TERMUX_PKG_DESCRIPTION="Data flow based image processing framework"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _MAJOR_VERSION=0.4
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.36
 TERMUX_PKG_SRCURL=https://download.gimp.org/pub/gegl/${_MAJOR_VERSION}/gegl-${TERMUX_PKG_VERSION}.tar.xz

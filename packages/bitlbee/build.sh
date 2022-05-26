@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.bitlbee.org/
 TERMUX_PKG_DESCRIPTION="An IRC to other chat networks gateway"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.6-1
 TERMUX_PKG_SRCURL=https://github.com/bitlbee/bitlbee/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=81c6357fe08a8941221472e3790e2b351e3a8a41f9af0cf35395fdadbc8ac6cb

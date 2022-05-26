@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.opendesktop.org/p/1136805/
 TERMUX_PKG_DESCRIPTION="An install helper program for items served via OpenCollaborationServices (ocs://)"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.1.0
 TERMUX_PKG_SRCURL=https://www.opencode.net/dfn2/ocs-url.git
 TERMUX_PKG_GIT_BRANCH=release-${TERMUX_PKG_VERSION}

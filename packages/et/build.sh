@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://eternalterminal.dev
 TERMUX_PKG_DESCRIPTION="A remote shell that automatically reconnects without interrupting the session"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_AUTO_UPDATE=true
 TERMUX_PKG_UPDATE_VERSION_REGEXP="\d+\.\d+\.\d+"
 TERMUX_PKG_VERSION="6.2.1"

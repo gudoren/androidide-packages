@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://tools.suckless.org/dmenu/
 TERMUX_PKG_DESCRIPTION="Generic menu for X"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=5.0
 TERMUX_PKG_REVISION=5
 TERMUX_PKG_SRCURL=https://dl.suckless.org/tools/dmenu-$TERMUX_PKG_VERSION.tar.gz

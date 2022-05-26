@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://libsigcplusplus.github.io/libsigcplusplus/
 TERMUX_PKG_DESCRIPTION="Implements a typesafe callback system for standard C++"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _MAJOR_VERSION=2.10
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.8
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/libsigc++/${_MAJOR_VERSION}/libsigc++-${TERMUX_PKG_VERSION}.tar.xz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.mumble.info/
 TERMUX_PKG_DESCRIPTION="Server module for Mumble, an open source voice-chat software"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.4.230
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/mumble-voip/mumble.git

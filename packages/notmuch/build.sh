@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://notmuchmail.org
 TERMUX_PKG_DESCRIPTION="Thread-based email index, search and tagging system"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.32.2
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://notmuchmail.org/releases/notmuch-${TERMUX_PKG_VERSION}.tar.xz

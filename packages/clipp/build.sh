@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/muellan/clipp
 TERMUX_PKG_DESCRIPTION="Command line interfaces for modern C++"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.2.3
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/muellan/clipp/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

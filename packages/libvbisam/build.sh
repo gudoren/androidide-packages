@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://sourceforge.net/projects/vbisam/
 TERMUX_PKG_DESCRIPTION="A replacement for IBM's C-ISAM"
 TERMUX_PKG_LICENSE="GPL-2.0, LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/project/vbisam/vbisam2/vbisam-${TERMUX_PKG_VERSION}.tar.gz

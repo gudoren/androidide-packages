@@ -2,7 +2,7 @@ TERMUX_PKG_HOMEPAGE=https://github.com/mikebrady/shairport-sync
 TERMUX_PKG_DESCRIPTION="An AirPlay audio player"
 TERMUX_PKG_LICENSE="custom"
 TERMUX_PKG_LICENSE_FILE="LICENSES"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 # Cannot simply be updated to a newer version due to `pthread_cancel` being used
 TERMUX_PKG_VERSION=3.1.2
 TERMUX_PKG_REVISION=3

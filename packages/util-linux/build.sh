@@ -8,7 +8,7 @@ Documentation/licenses/COPYING.LGPL-2.1-or-later
 Documentation/licenses/COPYING.BSD-3-Clause
 Documentation/licenses/COPYING.BSD-4-Clause-UC
 Documentation/licenses/COPYING.ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.38
 TERMUX_PKG_SRCURL=https://www.kernel.org/pub/linux/utils/util-linux/v${TERMUX_PKG_VERSION:0:4}/util-linux-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=6d111cbe4d55b336db2f1fbeffbc65b89908704c01136371d32aa9bec373eb64

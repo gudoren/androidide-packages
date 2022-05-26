@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://cgdb.github.io/
 TERMUX_PKG_DESCRIPTION="A lightweight curses (terminal-based) interface to the GNU Debugger (GDB)"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.7.1
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://cgdb.me/files/cgdb-${TERMUX_PKG_VERSION}.tar.gz

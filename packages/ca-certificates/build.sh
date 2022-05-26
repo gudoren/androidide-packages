@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://curl.se/docs/caextract.html
 TERMUX_PKG_DESCRIPTION="Common CA certificates"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _DATE=2022-03-29
 TERMUX_PKG_VERSION=1:${_DATE//-/.}
 TERMUX_PKG_SRCURL=https://curl.se/ca/cacert-${_DATE}.pem

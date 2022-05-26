@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/n-t-roff/sc"
 TERMUX_PKG_DESCRIPTION="A vi-like spreadsheet calculator"
 TERMUX_PKG_LICENSE="Public Domain"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 # TERMUX_PKG_VERSION does not support underscores
 _REAL_VERSION=7.16_1.1.2
 TERMUX_PKG_VERSION=${_REAL_VERSION//_/-}

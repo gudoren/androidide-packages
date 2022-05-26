@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/libdazzle
 TERMUX_PKG_DESCRIPTION="A companion library to GObject and Gtk+"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _MAJOR_VERSION=3.44
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.0
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/libdazzle/${_MAJOR_VERSION}/libdazzle-${TERMUX_PKG_VERSION}.tar.xz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://sites.google.com/site/doctormike/pacman.html
 TERMUX_PKG_DESCRIPTION="A 9 level ncurses pacman game with editor"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.3
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://ftp.debian.org/debian/pool/main/p/pacman4console/pacman4console_${TERMUX_PKG_VERSION}.orig.tar.gz

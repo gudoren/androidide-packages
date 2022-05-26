@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/falconindy/pkgfile
 TERMUX_PKG_DESCRIPTION="An alpm .files metadata explorer"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=21
 TERMUX_PKG_SRCURL=https://github.com/falconindy/pkgfile/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=809d75738cae785839950c85371ac087bc3b450eed497a565eca01b653f254a5

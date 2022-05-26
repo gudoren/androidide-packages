@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.ltrace.org/
 TERMUX_PKG_DESCRIPTION="Tracks runtime library calls in dynamically linked programs"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1:0.7.3
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/dkogan/ltrace/archive/82c66409c7a93ca6ad2e4563ef030dfb7e6df4d4.tar.gz

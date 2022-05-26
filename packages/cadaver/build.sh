@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://webdav.org/cadaver/
 TERMUX_PKG_DESCRIPTION="A command-line WebDAV client for Unix"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.23.3
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=http://webdav.org/cadaver/cadaver-${TERMUX_PKG_VERSION}.tar.gz

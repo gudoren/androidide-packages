@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://unbound.net/
 TERMUX_PKG_DESCRIPTION="A validating, recursive, caching DNS resolver"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.15.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://nlnetlabs.nl/downloads/unbound/unbound-${TERMUX_PKG_VERSION}.tar.gz

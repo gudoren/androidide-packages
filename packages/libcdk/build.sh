@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://dickey.his.com/cdk/cdk.html
 TERMUX_PKG_DESCRIPTION="Curses Development Kit"
 TERMUX_PKG_LICENSE="BSD"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _DATE=20211216
 TERMUX_PKG_VERSION=5.0-${_DATE}
 TERMUX_PKG_SRCURL=https://github.com/ThomasDickey/cdk-snapshots/archive/refs/tags/t${_DATE}.tar.gz

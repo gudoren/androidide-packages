@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.vim.org
 TERMUX_PKG_DESCRIPTION="Vi IMproved - enhanced vi editor"
 TERMUX_PKG_LICENSE="VIM License"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 
 # vim should only be updated every 50 releases on multiples of 50.
 TERMUX_PKG_VERSION=8.2.4650

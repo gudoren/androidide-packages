@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/coin-or/CoinUtils
 TERMUX_PKG_DESCRIPTION="An open-source collection of classes and helper functions for COIN-OR projects"
 TERMUX_PKG_LICENSE="EPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=9035d7a1b5b6daed9b067f16f440420e4477abac
 TERMUX_PKG_VERSION=2022.01.03
 TERMUX_PKG_SRCURL=https://github.com/coin-or/CoinUtils.git

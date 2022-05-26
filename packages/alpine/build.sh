@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://alpine.x10host.com/
 TERMUX_PKG_DESCRIPTION="Fast, easy to use email client"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.25
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=http://alpine.x10host.com/alpine/release/src/alpine-$TERMUX_PKG_VERSION.tar.xz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/krrishnarraj/clpeak
 TERMUX_PKG_DESCRIPTION="A tool which profiles OpenCL devices to find their peak capacities"
 TERMUX_PKG_LICENSE="Unlicense"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.1.2
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_GIT_BRANCH=$TERMUX_PKG_VERSION

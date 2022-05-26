@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.haproxy.org/
 TERMUX_PKG_DESCRIPTION="The Reliable, High Performance TCP/HTTP Load Balancer"
 TERMUX_PKG_LICENSE="GPL-2.0, LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _MAJOR_VERSION=2.4
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.14
 TERMUX_PKG_SRCURL=http://www.haproxy.org/download/${_MAJOR_VERSION}/src/haproxy-${TERMUX_PKG_VERSION}.tar.gz

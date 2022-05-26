@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://hostap.epitest.fi/wpa_supplicant
 TERMUX_PKG_DESCRIPTION="Utility providing key negotiation for WPA wireless networks"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.10
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://w1.fi/releases/wpa_supplicant-${TERMUX_PKG_VERSION}.tar.gz

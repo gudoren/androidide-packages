@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/letoams/hash-slinger
 TERMUX_PKG_DESCRIPTION="Various tools to generate special DNS records"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.1
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/letoams/hash-slinger/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

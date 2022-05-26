@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/noncombatant/robotfindskitten
 TERMUX_PKG_DESCRIPTION="A very fun adventure game for robots and humans"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=42a5cb783a59bf34dc0d1e925fd615f022674721
 TERMUX_PKG_VERSION=2021.08.18
 TERMUX_PKG_SRCURL=https://github.com/noncombatant/robotfindskitten.git

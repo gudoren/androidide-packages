@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.com/timvisee/ffsend
 TERMUX_PKG_DESCRIPTION="A fully featured Firefox Send client"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.2.74
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://gitlab.com/timvisee/ffsend/-/archive/v$TERMUX_PKG_VERSION/ffsend-v$TERMUX_PKG_VERSION.tar.gz

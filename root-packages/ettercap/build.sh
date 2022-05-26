@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.ettercap-project.org
 TERMUX_PKG_DESCRIPTION="Comprehensive suite for MITM attacks, can sniff live connections, do content filtering on the fly and much more"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.8.3.1
 TERMUX_PKG_REVISION=6
 TERMUX_PKG_SRCURL=https://github.com/Ettercap/ettercap/archive/v${TERMUX_PKG_VERSION}.tar.gz

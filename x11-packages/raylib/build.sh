@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.raylib.com/
 TERMUX_PKG_DESCRIPTION="A simple and easy-to-use library to enjoy videogames programming"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=4.0.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/raysan5/raylib/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

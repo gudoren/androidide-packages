@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://cwrap.org/resolv_wrapper.html
 TERMUX_PKG_DESCRIPTION="A wrapper for DNS name resolving or DNS faking"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.1.7
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://ftp.samba.org/pub/cwrap/resolv_wrapper-${TERMUX_PKG_VERSION}.tar.gz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gnu.org/software/bison/
 TERMUX_PKG_DESCRIPTION="General-purpose parser generator"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.8.2
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://mirrors.kernel.org/gnu/bison/bison-${TERMUX_PKG_VERSION}.tar.xz

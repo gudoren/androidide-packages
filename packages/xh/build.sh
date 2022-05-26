@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/ducaale/xh
 TERMUX_PKG_DESCRIPTION="A friendly and fast tool for sending HTTP requests"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.15.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/ducaale/xh.git

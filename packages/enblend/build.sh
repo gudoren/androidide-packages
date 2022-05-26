@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://enblend.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="A tool for compositing images using a Burt&Adelson multiresolution spline"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _VERSION=4.2.0_p20161007
 TERMUX_PKG_VERSION=${_VERSION//_/}
 TERMUX_PKG_SRCURL=https://dev.gentoo.org/~soap/distfiles/enblend-${_VERSION}.tar.xz

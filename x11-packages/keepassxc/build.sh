@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://keepassxc.org/
 TERMUX_PKG_DESCRIPTION="Cross-platform community-driven port of Keepass password manager"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.6.6
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL="https://github.com/keepassxreboot/keepassxc/releases/download/${TERMUX_PKG_VERSION}/keepassxc-${TERMUX_PKG_VERSION}-src.tar.xz"

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/action/show/Projects/libsoup
 TERMUX_PKG_DESCRIPTION="HTTP client and server library"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.70.0
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://ftp.gnome.org/pub/GNOME/sources/libsoup/${TERMUX_PKG_VERSION:0:4}/libsoup-$TERMUX_PKG_VERSION.tar.xz

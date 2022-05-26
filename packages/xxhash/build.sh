@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://cyan4973.github.io/xxHash/
 TERMUX_PKG_DESCRIPTION="Extremely fast non-cryptographic hash algorithm"
 TERMUX_PKG_LICENSE="BSD, GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.8.1
 TERMUX_PKG_SRCURL=https://github.com/Cyan4973/xxHash/archive/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=3bb6b7d6f30c591dd65aaaff1c8b7a5b94d81687998ca9400082c739a690436c

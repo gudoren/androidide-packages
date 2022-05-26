@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.rodsbooks.com/gdisk/
 TERMUX_PKG_DESCRIPTION="A text-mode partitioning tool that works on GUID Partition Table (GPT) disks"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.0.5
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL=https://sourceforge.net/projects/gptfdisk/files/gptfdisk/$TERMUX_PKG_VERSION/gptfdisk-$TERMUX_PKG_VERSION.tar.gz

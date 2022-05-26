@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/agl/jbig2enc
 TERMUX_PKG_DESCRIPTION="An encoder for JBIG2"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=ea6a40a2cbf05efb00f3418f2d0ad71232565beb
 TERMUX_PKG_VERSION=2019.09.08
 TERMUX_PKG_SRCURL=https://github.com/agl/jbig2enc.git

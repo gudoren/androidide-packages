@@ -1,6 +1,6 @@
 TERMUX_PKG_HOMEPAGE=https://sendxmpp.hostname.sk/
 TERMUX_PKG_DESCRIPTION="A perl-script to send XMPP (jabber) messages"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_LICENSE="GPL-2.0"
 TERMUX_PKG_VERSION=1.24
 TERMUX_PKG_SRCURL=https://github.com/lhost/sendxmpp/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

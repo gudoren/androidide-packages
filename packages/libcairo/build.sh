@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://cairographics.org
 TERMUX_PKG_DESCRIPTION="Cairo 2D vector graphics library"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.16.0
 TERMUX_PKG_REVISION=9
 TERMUX_PKG_SRCURL=https://fossies.org/linux/misc/cairo-$TERMUX_PKG_VERSION.tar.xz

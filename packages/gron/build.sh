@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/tomnomnom/gron
 TERMUX_PKG_DESCRIPTION="Transforms JSON into discrete assignments"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.6.1
 TERMUX_PKG_SRCURL=https://github.com/tomnomnom/gron.git
 TERMUX_PKG_BUILD_IN_SRC=true

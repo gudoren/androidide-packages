@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://icculus.org/physfs/
 TERMUX_PKG_DESCRIPTION="A portable, flexible file i/o abstraction"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.0.2
 TERMUX_PKG_SRCURL=https://icculus.org/physfs/downloads/physfs-${TERMUX_PKG_VERSION}.tar.bz2
 TERMUX_PKG_SHA256=304df76206d633df5360e738b138c94e82ccf086e50ba84f456d3f8432f9f863

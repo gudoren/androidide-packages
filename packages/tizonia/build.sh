@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/tizonia/
 TERMUX_PKG_DESCRIPTION="A command-line streaming music client/server for Linux"
 TERMUX_PKG_LICENSE="LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.22.0
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL=https://github.com/tizonia/tizonia-openmax-il/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

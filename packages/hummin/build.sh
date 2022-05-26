@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://trantor.is/
 TERMUX_PKG_DESCRIPTION="Command line client for the imperial library of trantor"
 TERMUX_PKG_LICENSE="WTFPL"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=b117aef9c64348b1ef262a99316f1e51328efe18
 TERMUX_PKG_VERSION=2021.05.18
 TERMUX_PKG_SRCURL=https://gitlab.com/trantor/hummin.git

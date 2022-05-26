@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://os.ghalkes.nl/libtranscript.html
 TERMUX_PKG_DESCRIPTION="A character-set conversion library"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.3.3
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://os.ghalkes.nl/dist/libtranscript-${TERMUX_PKG_VERSION}.tar.bz2

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://code.kryo.se/iodine
 TERMUX_PKG_DESCRIPTION="Tunnel IPv4 data through a DNS server"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.7.0
 TERMUX_PKG_REVISION=10
 TERMUX_PKG_SRCURL=http://code.kryo.se/iodine/iodine-$TERMUX_PKG_VERSION.tar.gz

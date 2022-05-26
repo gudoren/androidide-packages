@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/OpenZWave/open-zwave
 TERMUX_PKG_DESCRIPTION="A C++ library to control Z-Wave Networks via a USB Z-Wave Controller"
 TERMUX_PKG_LICENSE="LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.6-git
 TERMUX_PKG_REVISION=5
 _COMMIT=a8aa6341f4da161d0747c9cad205d821105ed09d

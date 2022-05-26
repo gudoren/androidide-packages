@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/flann-lib/flann
 TERMUX_PKG_DESCRIPTION="A library for performing fast approximate nearest neighbor searches in high dimensional spaces"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=1d04523268c388dabf1c0865d69e1b638c8c7d9d
 TERMUX_PKG_VERSION=2019.04.06
 TERMUX_PKG_SRCURL=https://github.com/flann-lib/flann.git

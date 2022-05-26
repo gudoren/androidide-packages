@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/Tencent/rapidjson/
 TERMUX_PKG_DESCRIPTION="fast JSON parser/generator for C++ with SAX/DOM style API"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.1.0
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL=https://github.com/Tencent/rapidjson/archive/v${TERMUX_PKG_VERSION}.tar.gz

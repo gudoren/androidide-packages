@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.linux-mtd.infradead.org/
 TERMUX_PKG_DESCRIPTION="Utilities for dealing with MTD devices"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.1.3
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=ftp://ftp.infradead.org/pub/mtd-utils/mtd-utils-$TERMUX_PKG_VERSION.tar.bz2

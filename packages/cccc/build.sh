@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://sarnold.github.io/cccc/
 TERMUX_PKG_DESCRIPTION="Source code counter and metrics tool for C++, C, and Java"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.1.6
 TERMUX_PKG_SRCURL=https://github.com/sarnold/cccc/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=2363948661a9ce6a8383f0f1f9e38548f9e19d31d7c31383e4a79925a868d14d

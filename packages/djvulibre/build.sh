@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://djvu.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Suite to create, manipulate and view DjVu ('déjà vu') documents"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.5.28
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=http://downloads.sourceforge.net/djvu/djvulibre-${TERMUX_PKG_VERSION}.tar.gz

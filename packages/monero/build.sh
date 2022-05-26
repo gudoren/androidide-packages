@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://getmonero.org/
 TERMUX_PKG_DESCRIPTION="A private, secure, untraceable, decentralised digital currency"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.17.3.0
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/monero-project/monero.git

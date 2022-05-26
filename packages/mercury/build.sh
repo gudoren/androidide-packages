@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.mercurylang.org/
 TERMUX_PKG_DESCRIPTION="A logic/functional programming language"
 TERMUX_PKG_LICENSE="GPL-2.0, LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=20.06.1
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://dl.mercurylang.org/release-${TERMUX_PKG_VERSION:0:5}/mercury-srcdist-${TERMUX_PKG_VERSION}.tar.gz

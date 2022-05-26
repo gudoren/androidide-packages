@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.fluxbox.org
 TERMUX_PKG_DESCRIPTION="A lightweight and highly-configurable window manager"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.3.7
 TERMUX_PKG_REVISION=33
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/fluxbox/fluxbox-${TERMUX_PKG_VERSION}.tar.xz

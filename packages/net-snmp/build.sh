@@ -3,7 +3,7 @@ TERMUX_PKG_DESCRIPTION="Various tools relating to the Simple Network Management 
 # Licenses: HPND, BSD 3-Clause, MIT
 TERMUX_PKG_LICENSE="custom"
 TERMUX_PKG_LICENSE_FILE="COPYING"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=5.9.1
 TERMUX_PKG_SRCURL=https://github.com/net-snmp/net-snmp/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=bdff5fe0915369971e4c7f8e43283fa5fdd08785c7d3b61431465562112d86e7

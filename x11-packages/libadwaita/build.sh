@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gnome.pages.gitlab.gnome.org/libadwaita/
 TERMUX_PKG_DESCRIPTION="Building blocks for modern adaptive GNOME applications"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _MAJOR_VERSION=1.1
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.1
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/libadwaita/${_MAJOR_VERSION}/libadwaita-${TERMUX_PKG_VERSION}.tar.xz

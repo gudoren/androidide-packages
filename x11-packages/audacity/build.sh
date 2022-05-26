@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.audacityteam.org/
 TERMUX_PKG_DESCRIPTION="An easy-to-use, multi-track audio editor and recorder"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 # Version 3.0.0 or higher does not work with vanilla wxWidgets.
 TERMUX_PKG_VERSION=2.4.2
 TERMUX_PKG_SRCURL=https://github.com/audacity/audacity/archive/Audacity-${TERMUX_PKG_VERSION}.tar.gz

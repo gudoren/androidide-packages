@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/jessfraz/cliaoke
 TERMUX_PKG_DESCRIPTION="Command line karaoke"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.2.4
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/jessfraz/cliaoke/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

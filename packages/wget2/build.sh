@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.com/gnuwget/wget2
 TERMUX_PKG_DESCRIPTION="The successor of GNU Wget, a file and recursive website downloader"
 TERMUX_PKG_LICENSE="GPL-3.0, LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.0.0
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://mirrors.kernel.org/gnu/wget/wget2-${TERMUX_PKG_VERSION}.tar.lz

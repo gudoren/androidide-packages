@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://git.sr.ht/~taiite/senpai
 TERMUX_PKG_DESCRIPTION="An IRC client that works best with bouncers"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=8091752a67781273944e7a79a803b7a671378313
 TERMUX_PKG_VERSION=2021.12.14
 # This repository does not accept ".git" suffix:

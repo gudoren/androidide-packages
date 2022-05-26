@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.xfce.org/apps/mousepad
 TERMUX_PKG_DESCRIPTION="A simple text editor for the Xfce desktop environment"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _MAJOR_VERSION=0.5
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.9
 TERMUX_PKG_SRCURL=https://archive.xfce.org/src/apps/mousepad/${_MAJOR_VERSION}/mousepad-${TERMUX_PKG_VERSION}.tar.bz2

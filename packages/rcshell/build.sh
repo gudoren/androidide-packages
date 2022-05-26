@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://tobold.org/article/rc
 TERMUX_PKG_DESCRIPTION="An alternative implementation of the plan 9 rc shell"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.7.4
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL=https://sources.voidlinux-ppc.org/rc-${TERMUX_PKG_VERSION}/v${TERMUX_PKG_VERSION}.tar.gz

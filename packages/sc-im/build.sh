@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/andmarti1424/sc-im
 TERMUX_PKG_DESCRIPTION="An improved version of sc, a spreadsheet calculator"
 TERMUX_PKG_LICENSE="BSD"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.8.2
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/andmarti1424/sc-im/archive/v${TERMUX_PKG_VERSION}.tar.gz

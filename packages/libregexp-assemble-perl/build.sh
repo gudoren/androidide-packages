@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://metacpan.org/pod/Regexp::Assemble
 TERMUX_PKG_DESCRIPTION="Perl module to merge several regular expressions"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.38
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://salsa.debian.org/perl-team/modules/packages/libregexp-assemble-perl/-/archive/upstream/${TERMUX_PKG_VERSION}/libregexp-assemble-perl-upstream-${TERMUX_PKG_VERSION}.tar.bz2

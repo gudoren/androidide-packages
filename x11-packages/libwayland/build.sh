@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wayland.freedesktop.org/
 TERMUX_PKG_DESCRIPTION="Wayland protocol library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.17.0
 TERMUX_PKG_REVISION=9
 TERMUX_PKG_SRCURL=https://wayland.freedesktop.org/releases/wayland-${TERMUX_PKG_VERSION}.tar.xz

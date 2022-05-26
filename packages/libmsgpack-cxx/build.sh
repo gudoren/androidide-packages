@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://msgpack.org/
 TERMUX_PKG_DESCRIPTION="msgpack for C++"
 TERMUX_PKG_LICENSE="BSL-1.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION="4.1.1"
 TERMUX_PKG_SRCURL=https://github.com/msgpack/msgpack-c/releases/download/cpp-${TERMUX_PKG_VERSION}/msgpack-cxx-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=8115c5edcf20bc1408c798a6bdaec16c1e52b1c34859d4982a0fb03300438f0b

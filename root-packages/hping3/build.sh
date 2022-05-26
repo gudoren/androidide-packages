@@ -2,7 +2,7 @@ TERMUX_PKG_HOMEPAGE=http://www.hping.org/
 TERMUX_PKG_DESCRIPTION="hping is a command-line oriented TCP/IP packet assembler/analyzer."
 # Same versioning as archlinux:
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.0.0
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=http://www.hping.org/hping3-20051105.tar.gz

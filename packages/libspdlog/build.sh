@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/gabime/spdlog
 TERMUX_PKG_DESCRIPTION="Very fast, header-only/compiled, C++ logging library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.9.2
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/gabime/spdlog/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

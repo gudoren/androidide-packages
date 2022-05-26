@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://notroj.github.io/neon/
 TERMUX_PKG_DESCRIPTION="An HTTP/1.1 and WebDAV client library, with a C interface"
 TERMUX_PKG_LICENSE="GPL-2.0, LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.32.2
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://notroj.github.io/neon/neon-${TERMUX_PKG_VERSION}.tar.gz

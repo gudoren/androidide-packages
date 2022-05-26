@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://mama.indstate.edu/users/ice/tree/
 TERMUX_PKG_DESCRIPTION="Recursive directory lister producing a depth indented listing of files"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.0.2
 TERMUX_PKG_SRCURL="https://gitlab.com/OldManProgrammer/unix-tree/-/archive/${TERMUX_PKG_VERSION}/unix-tree-${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=fda48f7443c6883c599cd9e87e93fd843c1cd162e68794d23e4dc6d10efc6250

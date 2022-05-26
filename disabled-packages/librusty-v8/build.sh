@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/denoland/rusty_v8
 TERMUX_PKG_DESCRIPTION="High quality Rust bindings to V8's C++ API"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=8b90dfd2f4fcbbaefd2c4d2be220d94a00a3ebba
 TERMUX_PKG_VERSION=2022.02.02
 TERMUX_PKG_SRCURL=https://github.com/denoland/rusty_v8.git

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://ralph-irving.github.io/squeezelite.html
 TERMUX_PKG_DESCRIPTION="A small headless Logitech Squeezebox emulator"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.9.9
 _COMMIT=370020f2dd572f0ab5464d8ef4e47ebf21b19468
 TERMUX_PKG_SRCURL=https://github.com/ralph-irving/squeezelite.git

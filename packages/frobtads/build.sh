@@ -9,4 +9,4 @@ TERMUX_PKG_AUTO_UPDATE=true
 TERMUX_PKG_RM_AFTER_INSTALL="share/frobtads/tads3/doc share/frobtads/tads3/lib/webuires"
 TERMUX_PKG_DEPENDS="libc++, ncurses, libcurl"
 TERMUX_PKG_LICENSE_FILE="doc/COPYING"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"

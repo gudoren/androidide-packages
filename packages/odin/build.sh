@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://odin-lang.org/
 TERMUX_PKG_DESCRIPTION="The Odin programming language"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2022.04
 TERMUX_PKG_SRCURL=https://github.com/odin-lang/Odin/archive/refs/tags/dev-${TERMUX_PKG_VERSION//./-}.tar.gz
 TERMUX_PKG_SHA256=42983d411902e837792f3cf4c60871da7be67a0b8c23d92a31ac6a069a8fc5c3

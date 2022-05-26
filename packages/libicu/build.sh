@@ -4,7 +4,7 @@ TERMUX_PKG_LICENSE="BSD"
 # We override TERMUX_PKG_SRCDIR termux_step_post_get_source so need to do
 # this hack to be able to find the license file.
 TERMUX_PKG_LICENSE_FILE="../LICENSE"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=71.1
 TERMUX_PKG_SRCURL=https://github.com/unicode-org/icu/releases/download/release-${TERMUX_PKG_VERSION//./-}/icu4c-${TERMUX_PKG_VERSION//./_}-src.tgz
 TERMUX_PKG_SHA256=67a7e6e51f61faf1306b6935333e13b2c48abd8da6d2f46ce6adca24b1e21ebf

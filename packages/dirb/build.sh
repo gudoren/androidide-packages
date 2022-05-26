@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://dirb.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Web Directory Fuzzer."
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.22
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://sourceforge.net/projects/dirb/files/dirb/${TERMUX_PKG_VERSION}/dirb${TERMUX_PKG_VERSION/./}.tar.gz

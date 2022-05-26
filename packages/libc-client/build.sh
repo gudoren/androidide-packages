@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.washington.edu/imap/ # Gone.
 TERMUX_PKG_DESCRIPTION="UW IMAP c-client library"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2007f
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://www.mirrorservice.org/sites/ftp.cac.washington.edu/imap/imap-${TERMUX_PKG_VERSION}.tar.gz

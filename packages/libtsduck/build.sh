@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://tsduck.io/
 TERMUX_PKG_DESCRIPTION="An extensible toolkit for MPEG transport streams"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _VERSION=3.29-2651
 TERMUX_PKG_VERSION=${_VERSION//-/.}
 TERMUX_PKG_SRCURL=https://github.com/tsduck/tsduck/archive/refs/tags/v${_VERSION}.tar.gz

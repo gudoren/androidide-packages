@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://a-nikolaev.github.io/curseofwar/
 TERMUX_PKG_DESCRIPTION="Fast-paced action strategy game focusing on high-level strategic planning"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.3.0
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/a-nikolaev/curseofwar/archive/v${TERMUX_PKG_VERSION}.tar.gz

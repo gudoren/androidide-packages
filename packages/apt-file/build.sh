@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.debian.org/apt-file
 TERMUX_PKG_DESCRIPTION="search for files within packages"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.2.2
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL=http://deb.debian.org/debian/pool/main/a/apt-file/apt-file_${TERMUX_PKG_VERSION}.tar.xz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/aeosynth/bk
 TERMUX_PKG_DESCRIPTION="A terminal EPUB reader"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.5.3
 # Whenever the next release happens, we can change to git release tarball.
 _COMMIT=61beded518e759884d72732a068744935c11ea6f

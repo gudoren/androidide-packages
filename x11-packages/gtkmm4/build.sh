@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gtkmm.org/
 TERMUX_PKG_DESCRIPTION="The C++ API for GTK"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 # Newer version requires newer gtk4 which has build issue.
 _MAJOR_VERSION=4.2
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.0

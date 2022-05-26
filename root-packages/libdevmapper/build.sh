@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://sourceware.org/lvm2/
 TERMUX_PKG_DESCRIPTION="A device-mapper library from LVM2 package"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.03.09
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://mirrors.kernel.org/sourceware/lvm2/releases/LVM2.${TERMUX_PKG_VERSION}.tgz

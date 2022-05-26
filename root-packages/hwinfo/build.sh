@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/openSUSE/hwinfo
 TERMUX_PKG_DESCRIPTION="Hardware detection tool from openSUSE"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=21.80
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/openSUSE/hwinfo/archive/$TERMUX_PKG_VERSION.tar.gz

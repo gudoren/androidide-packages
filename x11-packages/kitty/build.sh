@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://sw.kovidgoyal.net/kitty/
 TERMUX_PKG_DESCRIPTION="Cross-platform, fast, feature-rich, GPU based terminal"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.25.0
 TERMUX_PKG_SRCURL=https://github.com/kovidgoyal/kitty/releases/download/v${TERMUX_PKG_VERSION}/kitty-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=1a2c81bf46687d4141d3182dc984bbc0330791705af152199e5b5815dae933de

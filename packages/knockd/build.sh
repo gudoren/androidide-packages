@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://zeroflux.org/projects/knock
 TERMUX_PKG_DESCRIPTION="A port-knocking daemon"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.8
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://www.zeroflux.org/proj/knock/files/knock-${TERMUX_PKG_VERSION}.tar.gz

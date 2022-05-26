@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/hrkfdn/ncspot
 TERMUX_PKG_DESCRIPTION="An ncurses Spotify client written in Rust"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION="0.9.8"
 TERMUX_PKG_SRCURL=https://github.com/hrkfdn/ncspot/archive/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=dc465bb143f072f98c08e6095de761aa177a21ed97c1d99064feaa3c517bb97e

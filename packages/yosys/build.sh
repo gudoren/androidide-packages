@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://yosyshq.net/yosys/
 TERMUX_PKG_DESCRIPTION="A framework for RTL synthesis tools"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.13
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/YosysHQ/yosys/archive/refs/tags/yosys-${TERMUX_PKG_VERSION}.tar.gz

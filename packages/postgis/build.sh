@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://postgis.net
 TERMUX_PKG_DESCRIPTION="Spatial database extender for PostgreSQL object-relational database"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.1.4
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://download.osgeo.org/postgis/source/postgis-$TERMUX_PKG_VERSION.tar.gz

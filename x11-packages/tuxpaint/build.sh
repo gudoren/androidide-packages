@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://tuxpaint.org/
 TERMUX_PKG_DESCRIPTION="A free, award-winning drawing program for children ages 3 to 12"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.9.27
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/tuxpaint/tuxpaint-${TERMUX_PKG_VERSION}.tar.gz

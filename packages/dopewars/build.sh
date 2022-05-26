@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://dopewars.sourceforge.io
 TERMUX_PKG_DESCRIPTION="Drug-dealing game set in streets of New York City"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.6.1
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL=https://prdownloads.sourceforge.net/dopewars/dopewars-${TERMUX_PKG_VERSION}.tar.gz

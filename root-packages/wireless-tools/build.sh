@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://hewlettpackard.github.io/wireless-tools/Tools
 TERMUX_PKG_DESCRIPTION="A set of tools allowing to manipulate the Wireless Extensions"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=30pre9
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://hewlettpackard.github.io/wireless-tools/wireless_tools.30.pre9.tar.gz

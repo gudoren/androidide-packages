@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/silnrsi/graphite
 TERMUX_PKG_DESCRIPTION="Font system for multiple languages"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.3.14
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/silnrsi/graphite/archive/${TERMUX_PKG_VERSION}.tar.gz

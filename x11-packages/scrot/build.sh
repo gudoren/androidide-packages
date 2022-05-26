@@ -1,6 +1,6 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/dreamer/scrot
 TERMUX_PKG_DESCRIPTION="Simple command-line screenshot utility for X"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_LICENSE="MIT"
 TERMUX_PKG_VERSION=0.10.0
 TERMUX_PKG_REVISION=1

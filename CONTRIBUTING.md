@@ -463,7 +463,7 @@ but its value will take different format (`{EPOCH}:{VERSION}`):
 TERMUX_PKG_VERSION=1:5.0.0
 ```
 
-Note that if you are not @termux collaborator, pull request must contain a
+Note that if you are not @itsaky collaborator, pull request must contain a
 *description* why you are submitting a package downgrade. All pull requests
 which submit package downgrading without any serious reason will be rejected.
 

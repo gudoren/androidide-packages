@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://valgrind.org/
 TERMUX_PKG_DESCRIPTION="Instrumentation framework for building dynamic analysis tools"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.18.1
 TERMUX_PKG_SRCURL=ftp://sourceware.org/pub/valgrind/valgrind-${TERMUX_PKG_VERSION}.tar.bz2
 TERMUX_PKG_SHA256=00859aa13a772eddf7822225f4b46ee0d39afbe071d32778da4d99984081f7f5

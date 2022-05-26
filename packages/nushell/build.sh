@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.nushell.sh
 TERMUX_PKG_DESCRIPTION="A new type of shell operating on structured data"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION="0.63.0"
 TERMUX_PKG_SRCURL=https://github.com/nushell/nushell/archive/$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=36164bd0add2a0929e3b53d4f317e6703cab96b65a596fd562fd58f0f14d92c1

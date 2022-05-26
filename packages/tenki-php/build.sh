@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/dmpop/tenki
 TERMUX_PKG_DESCRIPTION="A simple PHP application for logging current weather conditions, notes, and waypoints"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=e59f7f97804fa0c4e6fcc9368cccf4379ad92d6e
 TERMUX_PKG_VERSION=2022.01.08
 TERMUX_PKG_SRCURL=https://github.com/dmpop/tenki.git

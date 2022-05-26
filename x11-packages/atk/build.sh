@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gtk.org
 TERMUX_PKG_DESCRIPTION="The interface definitions of accessibility infrastructure"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _MAJOR_VERSION=2.38
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.0
 TERMUX_PKG_SRCURL=https://ftp.gnome.org/pub/gnome/sources/atk/${_MAJOR_VERSION}/atk-${TERMUX_PKG_VERSION}.tar.xz

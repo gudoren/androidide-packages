@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gaia-gis.it/fossil/libspatialite
 TERMUX_PKG_DESCRIPTION="SQLite extension to support spatial data types and operations"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=5.0.1
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://www.gaia-gis.it/gaia-sins/libspatialite-${TERMUX_PKG_VERSION}.tar.gz

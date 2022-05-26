@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/wwmm/easyeffects
 TERMUX_PKG_DESCRIPTION="Audio effects for PulseAudio applications"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 # Do not upgrade to EasyEffects version.
 TERMUX_PKG_VERSION=4.8.6
 TERMUX_PKG_REVISION=1

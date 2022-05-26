@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/vte/
 TERMUX_PKG_DESCRIPTION="Virtual Terminal library"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 # Do not update to 0.64.x or later with no caution; may break xfce4-terminal
 TERMUX_PKG_VERSION=2:0.62.2
 TERMUX_PKG_REVISION=2

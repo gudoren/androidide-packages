@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://netpbm.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Toolkit for manipulation of graphic images of different formats"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1:10.73.38
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/project/netpbm/super_stable/${TERMUX_PKG_VERSION:2}/netpbm-${TERMUX_PKG_VERSION:2}.tgz
 TERMUX_PKG_SHA256=0bbf8ef88413ed286e9b040685c44758857e86ccb266ccf9643ee29807e961de

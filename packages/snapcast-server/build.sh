@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/badaix/snapcast
 TERMUX_PKG_DESCRIPTION="A multiroom client-server audio player (server)"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.26.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/badaix/snapcast/archive/v${TERMUX_PKG_VERSION}.tar.gz

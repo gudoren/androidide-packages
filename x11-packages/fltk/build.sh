@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.fltk.org/
 TERMUX_PKG_DESCRIPTION="Graphical user interface toolkit for X"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.3.7
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://www.fltk.org/pub/fltk/${TERMUX_PKG_VERSION}/fltk-${TERMUX_PKG_VERSION}-source.tar.gz

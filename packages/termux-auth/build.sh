@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/termux/termux-auth
 TERMUX_PKG_DESCRIPTION="Password authentication library and utility for Termux"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.4
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/termux/termux-auth/archive/v${TERMUX_PKG_VERSION}.tar.gz

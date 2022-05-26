@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://apt-team.pages.debian.net/python-apt/
 TERMUX_PKG_DESCRIPTION="Python bindings for APT"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.3.0
 TERMUX_PKG_SRCURL=https://ftp.debian.org/debian/pool/main/p/python-apt/python-apt_${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=de4a284bc7a738793615631d451524f42404034f4d787953b7621b25bc29e474

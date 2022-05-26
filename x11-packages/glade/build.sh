@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://glade.gnome.org/
 TERMUX_PKG_DESCRIPTION="User interface designer for Gtk+ and GNOME"
 TERMUX_PKG_LICENSE="LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.38.2
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/GNOME/glade/archive/refs/tags/GLADE_${TERMUX_PKG_VERSION//./_}.tar.gz

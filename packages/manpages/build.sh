@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.kernel.org/doc/man-pages/
 TERMUX_PKG_DESCRIPTION="Man pages for linux kernel and C library interfaces"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=(5.13
 		    2017)
 TERMUX_PKG_REVISION=1

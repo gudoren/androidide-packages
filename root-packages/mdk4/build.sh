@@ -1,4 +1,4 @@
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_HOMEPAGE=https://github.com/aircrack-ng/mdk4
 TERMUX_PKG_DESCRIPTION="MDK is a proof-of-concept tool to exploit common IEEE 802.11 protocol weaknesses."
 TERMUX_PKG_LICENSE="GPL-3.0"

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/KhronosGroup/OpenCL-CLHPP
 TERMUX_PKG_DESCRIPTION="Khronos OpenCL C++ Headers"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.0.16
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/KhronosGroup/OpenCL-CLHPP/archive/v${TERMUX_PKG_VERSION}.tar.gz

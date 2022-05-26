@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://xmlsoft.org/libxslt/
 TERMUX_PKG_DESCRIPTION="XSLT processing library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _MAJOR_VERSION=1.1
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.35
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/libxslt/${_MAJOR_VERSION}/libxslt-${TERMUX_PKG_VERSION}.tar.xz

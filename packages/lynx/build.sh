@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://lynx.browser.org/
 TERMUX_PKG_DESCRIPTION="The text web browser"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.8.9rel.1
 TERMUX_PKG_REVISION=7
 TERMUX_PKG_SRCURL=https://invisible-mirror.net/archives/lynx/tarballs/lynx${TERMUX_PKG_VERSION}.tar.bz2

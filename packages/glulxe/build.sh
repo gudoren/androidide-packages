@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.eblong.com/zarf/glulx/
 TERMUX_PKG_DESCRIPTION="Interpreter for the Glulx portable VM for interactive fiction (IF) games"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=(0.5.4
                     1.0.4)
 TERMUX_PKG_REVISION=5

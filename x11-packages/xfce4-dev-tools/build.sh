@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.xfce.org/xfce/xfce4-dev-tools
 TERMUX_PKG_DESCRIPTION="A collection of tools and macros for Xfce developers"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _MAJOR_VERSION=4.17
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.0
 TERMUX_PKG_SRCURL=https://archive.xfce.org/src/xfce/xfce4-dev-tools/${_MAJOR_VERSION}/xfce4-dev-tools-${TERMUX_PKG_VERSION}.tar.bz2

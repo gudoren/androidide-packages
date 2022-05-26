@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://invisible-island.net/dialog/
 TERMUX_PKG_DESCRIPTION="Application used in shell scripts which displays text user interface widgets"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_DEPENDS="libandroid-support, ncurses"
 TERMUX_PKG_VERSION="1.3-20220117"
 TERMUX_PKG_SRCURL=https://fossies.org/linux/misc/dialog-${TERMUX_PKG_VERSION}.tgz

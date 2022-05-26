@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/sharkdp/bat
 TERMUX_PKG_DESCRIPTION="A cat(1) clone with wings"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION="0.21.0"
 TERMUX_PKG_SRCURL=https://github.com/sharkdp/bat/archive/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=3dff1e52d577d0a105f4afe3fe7722a4a2b8bb2eb3e7a6a5284ac7add586a3ee

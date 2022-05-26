@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.softsynth.com/pforth/
 TERMUX_PKG_DESCRIPTION="Portable Forth in C"
 TERMUX_PKG_LICENSE="Public Domain"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=1aa4eb4976630fdb6882bb3aacb97aa09f69571e
 TERMUX_PKG_VERSION=20211129
 TERMUX_PKG_SRCURL=https://github.com/philburk/pforth/archive/${_COMMIT}.zip

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://openbabel.org/wiki/Main_Page
 TERMUX_PKG_DESCRIPTION="Open Babel is a chemical toolbox designed to speak the many languages of chemical data"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.1.1
 TERMUX_PKG_REVISION=6
 TERMUX_PKG_SRCURL=https://github.com/openbabel/openbabel/archive/openbabel-${TERMUX_PKG_VERSION//./-}.tar.gz

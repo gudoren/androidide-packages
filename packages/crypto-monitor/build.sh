@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/edghyhdz/crypto_monitor
 TERMUX_PKG_DESCRIPTION="Real-time crypto currency monitor"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=86fd7de705babc2cef1e920e39ec439f5aa9c336
 TERMUX_PKG_VERSION=2021.02.22
 TERMUX_PKG_REVISION=2

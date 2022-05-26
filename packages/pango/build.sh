@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.pango.org/
 TERMUX_PKG_DESCRIPTION="Library for laying out and rendering text"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _MAJOR_VERSION=1.50
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.7
 TERMUX_PKG_SRCURL=https://ftp.gnome.org/pub/GNOME/sources/pango/${_MAJOR_VERSION}/pango-${TERMUX_PKG_VERSION}.tar.xz

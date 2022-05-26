@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://jonas.github.io/tig/
 TERMUX_PKG_DESCRIPTION="Ncurses-based text-mode interface for git"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.5.5
 TERMUX_PKG_SRCURL=https://github.com/jonas/tig/releases/download/tig-$TERMUX_PKG_VERSION/tig-$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=24ba2c8beae889e6002ea7ced0e29851dee57c27fde8480fb9c64d5eb8765313

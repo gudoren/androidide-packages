@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://libusb.info/
 TERMUX_PKG_DESCRIPTION="A C library that provides generic access to USB devices"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION="1.0.26"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/libusb/libusb/releases/download/v${TERMUX_PKG_VERSION}/libusb-${TERMUX_PKG_VERSION}.tar.bz2

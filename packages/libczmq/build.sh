@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://zeromq.org/
 TERMUX_PKG_DESCRIPTION="High-level C binding for ZeroMQ"
 TERMUX_PKG_LICENSE="MPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=4.2.1
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/zeromq/czmq/releases/download/v${TERMUX_PKG_VERSION}/czmq-${TERMUX_PKG_VERSION}.tar.gz

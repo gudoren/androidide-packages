@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.com/DavidGriffith/frotz
 TERMUX_PKG_DESCRIPTION="Interpreter for Infocom and other Z-machine interactive fiction (IF) games"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 # frotz does not depend on dialog or curl, but the zgames script we bundle below in termux_step_make_install() do.
 TERMUX_PKG_VERSION=2.53
 TERMUX_PKG_REVISION=1

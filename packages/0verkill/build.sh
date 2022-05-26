@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/hackndev/0verkill
 TERMUX_PKG_DESCRIPTION="Bloody 2D action deathmatch-like game in ASCII-ART"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.16-git
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/ravener/0verkill/archive/refs/tags/v${TERMUX_PKG_VERSION:0:4}.tar.gz

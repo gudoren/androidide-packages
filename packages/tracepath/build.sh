@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/iputils/iputils
 TERMUX_PKG_DESCRIPTION="Tool to trace the network path to a remote host"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=20211215
 TERMUX_PKG_SRCURL=https://github.com/iputils/iputils/archive/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=b6f67fc705490673ff4471d006221b4a2f1b1180b929d9fefd771352621ccedf

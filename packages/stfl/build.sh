@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.clifford.at/stfl
 TERMUX_PKG_DESCRIPTION="Structured Terminal Forms Language/Library"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.24
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL=https://grimler.se/termux/stfl-${TERMUX_PKG_VERSION}.tar.gz

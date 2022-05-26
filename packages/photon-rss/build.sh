@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://git.sr.ht/~ghost08/photon
 TERMUX_PKG_DESCRIPTION="An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=600ea9a50ecb49e21c4cc9c65e2a9cad69b32cf2
 TERMUX_PKG_VERSION=2022.03.16
 # This repository does not accept ".git" suffix:

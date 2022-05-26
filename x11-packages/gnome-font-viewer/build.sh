@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/gnome-font-viewer
 TERMUX_PKG_DESCRIPTION="A font viewer utility for GNOME"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 # Stick to GTK 3 for now.
 _MAJOR_VERSION=41
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.0

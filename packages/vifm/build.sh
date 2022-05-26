@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://vifm.info/
 TERMUX_PKG_DESCRIPTION="File manager with vi like keybindings"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.12
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/vifm/vifm/archive/v${TERMUX_PKG_VERSION}.tar.gz

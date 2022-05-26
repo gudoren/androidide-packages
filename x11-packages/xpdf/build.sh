@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.xpdfreader.com/
 TERMUX_PKG_DESCRIPTION="Xpdf is an open source viewer for Portable Document Format (PDF) files."
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=4.03
 TERMUX_PKG_REVISION=4
 #TERMUX_PKG_SRCURL=https://dl.xpdfreader.com/xpdf-$TERMUX_PKG_VERSION.tar.gz

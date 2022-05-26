@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://dianne.skoll.ca/projects/rp-pppoe/
 TERMUX_PKG_DESCRIPTION="A PPP-over-Ethernet redirector for pppd"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=3.15
 #TERMUX_PKG_SRCURL=https://dianne.skoll.ca/projects/rp-pppoe/download/rp-pppoe-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SRCURL=https://fossies.org/linux/misc/rp-pppoe-${TERMUX_PKG_VERSION}.tar.gz

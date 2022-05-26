@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.com/berdyansk/astra-sm
 TERMUX_PKG_DESCRIPTION="Software for digital TV broadcasting"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=44bcd2852b7f315233267f639730e0e21b9b6c22
 TERMUX_PKG_VERSION=2019.06.19
 TERMUX_PKG_SRCURL=https://github.com/OpenVisionE2/astra-sm.git

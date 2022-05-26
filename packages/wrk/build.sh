@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/wg/wrk
 TERMUX_PKG_DESCRIPTION="Modern HTTP benchmarking tool"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=4.2.0
 TERMUX_PKG_SRCURL=https://github.com/wg/wrk/archive/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=e255f696bff6e329f5d19091da6b06164b8d59d62cb9e673625bdcd27fe7bdad

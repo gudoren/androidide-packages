@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gtkmm.org/
 TERMUX_PKG_DESCRIPTION="The C++ binding for the ATK library"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _MAJOR_VERSION=2.28
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.2
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/atkmm/${_MAJOR_VERSION}/atkmm-${TERMUX_PKG_VERSION}.tar.xz

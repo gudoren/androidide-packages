@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://projects.unbit.it/uwsgi
 TERMUX_PKG_DESCRIPTION="uWSGI application server container"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.0.20
 TERMUX_PKG_SRCURL=https://github.com/unbit/uwsgi/archive/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=88ab9867d8973d8ae84719cf233b7dafc54326fcaec89683c3f9f77c002cdff9

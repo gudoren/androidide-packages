@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://dvdauthor.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Generates a DVD-Video movie from a valid MPEG-2 stream"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.7.2
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/dvdauthor/dvdauthor-${TERMUX_PKG_VERSION}.tar.gz

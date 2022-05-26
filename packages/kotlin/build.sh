@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://kotlinlang.org/
 TERMUX_PKG_DESCRIPTION="The Kotlin Programming Language"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.6.21
 TERMUX_PKG_SRCURL=https://github.com/JetBrains/kotlin/releases/download/v${TERMUX_PKG_VERSION}/kotlin-compiler-${TERMUX_PKG_VERSION}.zip
 TERMUX_PKG_SHA256=632166fed89f3f430482f5aa07f2e20b923b72ef688c8f5a7df3aa1502c6d8ba

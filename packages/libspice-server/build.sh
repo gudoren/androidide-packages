@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.spice-space.org/
 TERMUX_PKG_DESCRIPTION="Implements the server side of the SPICE protocol"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=0.15.0
 TERMUX_PKG_REVISION=5
 TERMUX_PKG_SRCURL=https://www.spice-space.org/download/releases/spice-server/spice-${TERMUX_PKG_VERSION}.tar.bz2

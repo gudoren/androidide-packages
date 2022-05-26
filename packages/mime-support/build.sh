@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://pagure.io/mailcap
 TERMUX_PKG_DESCRIPTION="Modern mime.types file from mailcap"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _VERSION=2.1.53
 TERMUX_PKG_VERSION=1:${_VERSION}
 TERMUX_PKG_SRCURL=https://pagure.io/mailcap/archive/r${_VERSION//./-}/mailcap-r${_VERSION//./-}.tar.gz

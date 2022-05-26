@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.softether.org/
 TERMUX_PKG_DESCRIPTION="An open-source cross-platform multi-protocol VPN program"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=(5.02.5180)
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_VERSION+=(1.0.18)

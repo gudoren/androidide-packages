@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/eafer/rdrview
 TERMUX_PKG_DESCRIPTION="Command line tool to extract the main content from a webpage"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=9bde19f9e53562790b363bb2e3b15707c8c67676
 TERMUX_PKG_VERSION=2021.09.12
 TERMUX_PKG_REVISION=2

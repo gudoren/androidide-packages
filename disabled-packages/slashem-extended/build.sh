@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://nethackwiki.com/wiki/Slash%27EM_Extended
 TERMUX_PKG_DESCRIPTION="A variant of SLASH'EM (a variant of NetHack)"
 TERMUX_PKG_LICENSE="Nethack"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2.7.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/SLASHEM-Extended/SLASHEM-Extended/archive/refs/tags/slex-${TERMUX_PKG_VERSION}.tar.gz

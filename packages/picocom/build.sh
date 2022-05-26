@@ -3,7 +3,7 @@ TERMUX_PKG_DESCRIPTION="A minimal dumb-terminal emulation program"
 # "BSD 2-Clause" applies to bundled Linenoise library
 TERMUX_PKG_LICENSE="GPL-2.0, BSD 2-Clause"
 TERMUX_PKG_LICENSE_FILE="LICENSE.txt, linenoise-1.0/LICENSE"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 _COMMIT=1acf1ddabaf3576b4023c4f6f09c5a3e4b086fb8
 TERMUX_PKG_VERSION=2018.04.12
 TERMUX_PKG_SRCURL=https://github.com/npat-efault/picocom.git

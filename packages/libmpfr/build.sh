@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.mpfr.org/
 TERMUX_PKG_DESCRIPTION="C library for multiple-precision floating-point computations with correct rounding"
 TERMUX_PKG_LICENSE="LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=4.1.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://mirrors.kernel.org/gnu/mpfr/mpfr-${TERMUX_PKG_VERSION}.tar.xz

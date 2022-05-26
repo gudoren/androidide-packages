@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.aleksey.com/xmlsec/
 TERMUX_PKG_DESCRIPTION="XML Security Library"
 TERMUX_PKG_LICENSE="BSD"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.2.31
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=http://www.aleksey.com/xmlsec/download/xmlsec1-$TERMUX_PKG_VERSION.tar.gz

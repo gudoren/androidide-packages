@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://openscad.org/
 TERMUX_PKG_DESCRIPTION="The programmers solid 3D CAD modeller (headless build)"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=2019.05
 TERMUX_PKG_REVISION=8
 TERMUX_PKG_SRCURL=https://files.openscad.org/openscad-$TERMUX_PKG_VERSION.src.tar.gz

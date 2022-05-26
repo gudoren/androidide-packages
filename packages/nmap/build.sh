@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://nmap.org/
 TERMUX_PKG_DESCRIPTION="Utility for network discovery and security auditing"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=7.92
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://nmap.org/dist/nmap-${TERMUX_PKG_VERSION}.tar.bz2

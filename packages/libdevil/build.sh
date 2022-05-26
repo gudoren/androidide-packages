@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://openil.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="A cross-platform image library utilizing a simple syntax"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.8.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/DentonW/DevIL/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/alobbs/macchanger
 TERMUX_PKG_DESCRIPTION="Utility that makes the maniputation of MAC addresses of network interfaces easier"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.7.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/alobbs/macchanger/archive/${TERMUX_PKG_VERSION}.tar.gz

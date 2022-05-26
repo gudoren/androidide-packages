@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://ukoethe.github.io/vigra/
 TERMUX_PKG_DESCRIPTION="Computer vision library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="@itsaky"
 TERMUX_PKG_VERSION=1.11.1
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/ukoethe/vigra/releases/download/Version-${TERMUX_PKG_VERSION//./-}/vigra-${TERMUX_PKG_VERSION}-src.tar.gz
