@@ -10,8 +10,8 @@ TERMUX_PKG_REPLACES="ndk-sysroot (<< 19b-3), zlib-dev"
 
 termux_step_pre_configure() {
 	if [ "$TERMUX_ARCH" = "aarch64" ]; then
-		CFLAGS+=" -march=armv8-a+crc"
-		CXXFLAGS+=" -march=armv8-a+crc"
+		CFLAGS+=" -march=armv8-a+crc -fPIC"
+		CXXFLAGS+=" -march=armv8-a+crc -fPIC"
 	fi
 }
 
