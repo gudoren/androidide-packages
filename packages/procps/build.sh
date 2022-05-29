@@ -18,7 +18,7 @@ ac_cv_search_dlopen=
 "
 
 termux_step_pre_configure() {
-	autoreconf -fi
+	$TERMUX_PKG_SRCDIR/autogen.sh
 }
 
 # About kill: https://bugs.launchpad.net/ubuntu/+source/coreutils/+bug/141168:
