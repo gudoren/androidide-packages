@@ -138,8 +138,8 @@ PACKAGES+=" tcl"
 # Needed by package swi-prolog.
 PACKAGES+=" openssl"
 PACKAGES+=" zlib1g-dev"
-PACKAGES+=" libssl-dev:i386"
-PACKAGES+=" zlib1g-dev:i386"
+PACKAGES+=" libssl-dev" # :i386"
+PACKAGES+=" zlib1g-dev" # :i386"
 
 # For swift.
 PACKAGES+=" lld"
@@ -152,7 +152,7 @@ PACKAGES+=" luajit"
 PACKAGES+=" bc"
 
 # Java.
-PACKAGES+=" openjdk-8-jdk openjdk-16-jdk"
+PACKAGES+=" openjdk-8-jdk openjdk-17-jdk"
 
 # needed by ovmf
 PACKAGES+=" libarchive-tools"
@@ -251,7 +251,7 @@ else
 fi
 
 # Allow 32-bit packages.
-$SUDO dpkg --add-architecture i386
+# $SUDO dpkg --add-architecture i386
 $SUDO apt-get -yq update
 
 $SUDO env DEBIAN_FRONTEND=noninteractive \
