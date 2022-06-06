@@ -13,6 +13,7 @@ scripts/.vagrant/
 # Built *.deb files.
 /debs/
 /output/
+/arm-output/
 
 # Preinstalled build tools.
 /build-tools/
