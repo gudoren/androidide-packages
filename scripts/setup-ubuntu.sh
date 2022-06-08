@@ -251,7 +251,7 @@ else
 fi
 
 # Allow 32-bit packages.
-# $SUDO dpkg --add-architecture i386
+$SUDO dpkg --add-architecture i386
 $SUDO apt-get -yq update
 
 $SUDO env DEBIAN_FRONTEND=noninteractive \
