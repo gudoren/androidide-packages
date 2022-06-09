@@ -1,9 +1,5 @@
 
-Welcome to Termux!
-
-Communities: https://termux.org/community
-Gitter chat: https://gitter.im/termux/termux
-IRC channel: #termux on libera.chat
+Welcome to AndroidIDE Terminal!
 
 Working with packages:
 
@@ -11,10 +7,7 @@ Working with packages:
  * Install a package: pkg install <package>
  * Upgrade packages:  pkg upgrade
 
-Subscribing to additional repositories:
+ Only some necessary packages can be downloaded.
 
- * Root:     pkg install root-repo
- * X11:      pkg install x11-repo
-
-Report issues at https://termux.org/issues
+Report issues at https://github.com/itsaky/AndroidIDE/issues
 
