@@ -138,8 +138,8 @@ PACKAGES+=" tcl"
 # Needed by package swi-prolog.
 PACKAGES+=" openssl"
 PACKAGES+=" zlib1g-dev"
-PACKAGES+=" libssl-dev" # :i386"
-PACKAGES+=" zlib1g-dev" # :i386"
+PACKAGES+=" libssl-dev:i386"
+PACKAGES+=" zlib1g-dev:i386"
 
 # For swift.
 PACKAGES+=" lld"
